@@ -5,3 +5,7 @@ requirements:
 setup:
   summary: install project development dependencies
   exec: pip install -r requirements.txt
+
+gpte:
+  summary: generate code from prompt
+  exec: gpt-engineer . gpt-4

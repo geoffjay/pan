@@ -1,4 +1,10 @@
-## libpan
+## Pan
+
+All, every; completely.
+
+### Purpose
+
+Initially just to try out `gpt-engineer`, maybe more, maybe not.
 
 ### Develop
 

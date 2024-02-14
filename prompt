@@ -1,0 +1,12 @@
+Use ./src as the base path for all code that's generated.
+
+Create a library using rust using pan as the namespace. It will provide types
+describing generic concepts including:
+
+- object
+- atom
+- element
+- being
+
+The library should define a binary protocol that can be used to describe the
+definition of what other languages could use as a foreign function interface.
