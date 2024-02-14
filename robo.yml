@@ -1,0 +1,7 @@
+requirements:
+  summary: generate requirements.txt
+  exec: pip-compile --output-file=requirements.txt requirements.in
+
+setup:
+  summary: install project development dependencies
+  exec: pip install -r requirements.txt
